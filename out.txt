@@ -1,0 +1,3 @@
+Cache Hit Rate: 25.25%
+p50 Response Time: 0.0022 seconds
+p99 Response Time: 0.0139 seconds
